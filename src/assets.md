@@ -3,3 +3,4 @@ netflix-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_
 nav-avatar='https://i.pinimg.com/originals/0d/dc/ca/0ddccae723d85a703b798a5e682c23c1.png'§
 
 banner='https://wallpaperaccess.com/full/2703652.png
+API_KEY = "a95e51d490aee44973e13a7125f1d512"
